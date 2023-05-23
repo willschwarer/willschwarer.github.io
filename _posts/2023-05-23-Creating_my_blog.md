@@ -2,9 +2,11 @@
 Starting my first attempt at creating a blog
 ## Testing header sizes
 Wondering how the paragraph spacing will look like between these headers
+
+
+
 ### This should be smaller
 Spacing test 2
-New line?
 
 New paragraph?
 
