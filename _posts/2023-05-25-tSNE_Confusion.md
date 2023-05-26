@@ -4,7 +4,7 @@ t-SNE while still important for this assignment, eludes my grasp on understandin
 
 (https://distill.pub/2016/misread-tsne/?fbclid=IwAR2pmZ-s273cR5cvf20Uj8ega6cMO8UtEaEHyc8KzManwDlMnuGCnHMj7xI)
 
-- The above website is summarsied below by ChatGPT better than I ever could.
+## The above website is summarsied below by ChatGPT better than I ever could.
 - Hyperparameters matter: The hyperparameters of t-SNE, such as perplexity and the number of iterations, have a significant impact on the resulting plots. Experiment with different values of perplexity to balance the attention between local and global aspects of your data. It is recommended to analyze multiple plots with different perplexities to get the most accurate representation.
 - Iterations until convergence: It's important to iterate until reaching a stable configuration. The number of iterations required for convergence may vary depending on the dataset, and there is no fixed number of steps that guarantees a stable result. Keep iterating until the plot no longer changes significantly.
 - Cluster sizes in t-SNE plots: The sizes of clusters in t-SNE plots do not reflect the actual sizes of the clusters in the high-dimensional space. t-SNE adapts its notion of "distance" to regional density variations, expanding dense clusters and contracting sparse ones. As a result, it evens out cluster sizes. Therefore, you cannot rely on the sizes of clusters in t-SNE plots to determine the sizes of clusters in the original data.
