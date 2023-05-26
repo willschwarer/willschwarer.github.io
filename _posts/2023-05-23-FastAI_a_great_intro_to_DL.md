@@ -13,3 +13,7 @@ ChatGPT is a great source for helping in the sense that it can explain what you'
 After completing module00-Is it a bird, I have the basis to easily complete the first part of the second assignment question.
 
 Heres a quick snippet of me classifiying a teddy bear as an actual bear which shows just how powerful it is as a resource.
+
+![](/images/teddy.jpg.png)
+
+Now to learn Confusion Matrices & whatever t-SNE models are
