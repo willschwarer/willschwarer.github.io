@@ -1,9 +1,9 @@
 # Creating my first blog post
 Starting my first attempt at creating a blog
 ## Testing header sizes
-Wondering how the paragraph spacing will look like between these headers
+Wondering how the paragraph spacing will look like between these headers and how an image will fit in
 
-
+![](/images/fastai.png)
 
 ### This should be smaller
 Spacing test 2
